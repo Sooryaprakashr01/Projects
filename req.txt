@@ -1,0 +1,4 @@
+pip install opencv-contrib-python
+pip install imutils
+pip install scikit-image
+python -m pip install matplotlib==3.2
